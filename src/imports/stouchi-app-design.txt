@@ -1,0 +1,253 @@
+Create a fully functional high-fidelity mobile fintech app UI called STOUCHI.
+
+I will provide:
+
+A logo PNG for STOUCHI (use its colors and identity as primary branding).
+
+Reference UI images to follow for layout style and component structure.
+
+You must:
+
+Keep layout inspiration from reference images.
+
+But generate original content, flows, and microcopy.
+
+Design a complete fintech digital wallet experience similar in features to a Tunisian digital wallet like Flouci.
+
+Make it modern, minimal, clean, Gen-Z friendly, and trustworthy.
+
+📱 APP CONCEPT
+
+STOUCHI is a Tunisian digital wallet that allows users to:
+
+Send and receive money instantly
+
+Pay bills (electricity, water, internet)
+
+Recharge mobile credit
+
+Pay via QR code
+
+Transfer to bank accounts (IBAN)
+
+Request money
+
+Track transactions
+
+View analytics of spending
+
+Manage cards
+
+Primary audience:
+Young Tunisians (18–35), freelancers, students, small business owners.
+
+Tone:
+Modern, secure, simple, confident.
+
+🎨 DESIGN SYSTEM
+
+Use STOUCHI logo colors as:
+
+Primary color
+
+Accent color
+
+CTA buttons
+
+Style:
+
+Soft rounded corners (16px–24px)
+
+Clean cards
+
+Subtle shadows
+
+Modern fintech gradients
+
+Bottom navigation bar
+
+Minimal icons (outline style)
+
+Large balance display
+
+Friendly typography (similar to Inter / SF Pro)
+
+📲 SCREENS TO CREATE (FULL FLOW)
+1️⃣ Onboarding (3 screens)
+
+Welcome to STOUCHI
+
+Fast payments anywhere
+
+Secure & regulated wallet
+
+CTA: "Create Account"
+
+CTA: "Login"
+
+2️⃣ Authentication Flow
+
+Phone number input
+
+OTP verification
+
+Create PIN screen
+
+Face ID / Fingerprint enable screen
+
+3️⃣ Home Dashboard
+
+Elements:
+
+Big balance card at top
+
+Quick actions:
+
+Send
+
+Receive
+
+Pay Bills
+
+QR Pay
+
+Recent transactions list
+
+Spending analytics preview
+
+Floating QR button
+
+4️⃣ Send Money Flow
+
+Choose contact
+
+Enter amount
+
+Add note
+
+Confirm transaction screen
+
+Success animation screen
+
+5️⃣ Request Money Flow
+
+Generate payment link
+
+QR code screen
+
+Share options
+
+6️⃣ Pay Bills Section
+
+Create service cards:
+
+Electricity
+
+Water
+
+Internet
+
+Mobile recharge
+
+Government services
+
+Bill payment flow:
+
+Enter customer ID
+
+Fetch bill
+
+Confirm payment
+
+Success screen
+
+7️⃣ QR Payment Screen
+
+Camera scanner UI
+
+Animated scanning frame
+
+Manual code input option
+
+8️⃣ Analytics Screen
+
+Monthly spending graph
+
+Categories breakdown
+
+Pie chart
+
+Income vs Expenses card
+
+9️⃣ Cards Management
+
+Virtual card UI
+
+Freeze / Unfreeze toggle
+
+Card details masked
+
+Add new card
+
+🔟 Profile & Settings
+
+Personal info
+
+Security settings
+
+Notification toggle
+
+Help center
+
+Logout
+
+🔐 UX DETAILS
+
+Add loading states
+
+Add microinteractions
+
+Add success / error states
+
+Add empty state illustrations
+
+Include confirmation modals
+
+Add transaction receipt design
+
+📐 COMPONENT STRUCTURE
+
+Create reusable components:
+
+Primary Button
+
+Secondary Button
+
+Input Field
+
+Transaction Card
+
+Service Card
+
+Modal
+
+Navigation Bar
+
+Bottom Sheet
+
+Use Auto Layout properly.
+Make it developer-ready.
+
+🎯 FINAL OUTPUT
+
+Deliver:
+
+Complete clickable mobile prototype
+
+Organized design system page
+
+Components page
+
+Full user journey
+
+The result must look like a real App Store-ready fintech application for Tunisia.
