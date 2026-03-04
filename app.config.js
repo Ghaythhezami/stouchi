@@ -3,6 +3,7 @@ export default {
     name: 'Stouchi',
     slug: 'stouchi',
     version: '1.0.0',
+    owner: 'ghaythgogo',
     orientation: 'portrait',
     icon: './src/assets/stouchi.png',
     userInterfaceStyle: 'light',
